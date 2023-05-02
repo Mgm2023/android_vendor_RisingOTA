@@ -10,16 +10,16 @@ devicename="Galaxy Note 10 +"
 zip="ricedroid zip" #ex: crDroidAndroid-<android version>-<date>-<device codename>-v<ricedroid version>.zip
 buildtype="Monthly"
 forum="https://t.me/Mgm_2023"
-gapps="" #https link (leave empty if unused)
-firmware="" #https link (leave empty if unused)
-modem="" #https link (leave empty if unused)
-bootloader="" #https link (leave empty if unused)
-recovery="" #https link (leave empty if unused)
-paypal="" #https link (leave empty if unused)
-telegram="" #https link (leave empty if unused)
-dt="" #https://github.com/ricedroidandroid/android_device_<oem>_<device_codename>
-commondt="" #https://github.com/ricedroidandroid/android_device_<orm>_<SOC>-common
-kernel="" #https://github.com/ricedroidandroid/android_kernel_<oem>_<SOC>
+gapps=""
+firmware=""
+modem=""
+bootloader=""
+recovery=""
+paypal=""
+telegram=""
+dt=""
+commondt=""
+kernel=""
 
 
 #don't modify from here
