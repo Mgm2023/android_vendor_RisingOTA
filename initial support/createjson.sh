@@ -3,10 +3,10 @@
 
 #modify values below
 #leave blank if not used
-maintainer="Name (nickname)" #ex: Lup Gabriel (gwolfu)
-oem="OEM" #ex: OnePlus
-device="device codename" #ex: guacamole
-devicename="name of device" #ex: OnePlus 7 Pro
+maintainer="Nathan Moore (Mgm2023)"
+oem="Samsung"
+device="d2s"
+devicename="Galaxy Note 10 +"
 zip="ricedroid zip" #ex: crDroidAndroid-<android version>-<date>-<device codename>-v<ricedroid version>.zip
 buildtype="type" #choose from Testing/Alpha/Beta/Weekly/Monthly
 forum="" #https link (mandatory)
