@@ -49,7 +49,7 @@ echo '{
         "oem": "'$oem'",
         "device": "'$devicename'",
         "filename": "'$zip_only'",
-        "download": "https://sourceforge.net/projects/ricedroid/files/'$device'/'$v_max'.x/'$zip_only'/download",
+        "download": "https://sourceforge.net/projects/mgm2023-rom-releases/files/RisingOS/06-May-2023/'$device'/'$v_max'.x/'$zip_only'/download",
         "timestamp": '$timestamp',
         "md5": "'$md5'",
         "sha256": "'$sha256'",
