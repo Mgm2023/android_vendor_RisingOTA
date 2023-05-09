@@ -49,7 +49,7 @@ echo '{
         "oem": "'$oem'",
         "device": "'$devicename'",
         "filename": "'$zip_only'",
-        "download": "https://sourceforge.net/projects/mgm2023-rom-releases/files/RisingOS/D2s/'$device'/'$v_max'.x/'$zip_only'/download",
+        "download": "https://sourceforge.net/projects/mgm2023-rom-releases/files/RisingOS/'$device'/'$v_max'.x/'$zip_only'/download",
         "timestamp": '$timestamp',
         "md5": "'$md5'",
         "sha256": "'$sha256'",
